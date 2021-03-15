@@ -110,7 +110,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: 2021 Speakers
-    subtitle: Amazing Speakers
+    subtitle: Bible-centered teaching to help you grow.
     grid_items:
       - title: Rev. Roger Wagner
         subtitle: 'Pastor, Bayview Orthodox Presbyterian Church'
