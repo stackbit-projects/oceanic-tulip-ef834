@@ -19,7 +19,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     title: 'Twin Peaks, CA'
-    subtitle: 'Pinecrest Christian Conference Center, Beautiful Forest, 5,000 ft.'
+    subtitle: 'Pinecrest Christian Conference Center: Beautiful Forest @ 5,000 ft.'
     align: center
     grid_items:
       - image: images/stackbit.svg
