@@ -112,7 +112,7 @@ sections:
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
     grid_items:
-      - title: Parsley Montana
+      - title: Roger Wagner
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
