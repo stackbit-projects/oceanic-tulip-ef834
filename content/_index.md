@@ -25,9 +25,6 @@ sections:
       - image: images/stackbit.svg
         image_alt: Stackbit logo
         image_align: center
-      - image: images/netlify.svg
-        image_alt: Netlify logo
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
