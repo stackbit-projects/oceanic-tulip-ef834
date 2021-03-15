@@ -124,7 +124,7 @@ sections:
         image_alt: Speaker 2 photo
         image_position: top
       - title: Rev. Joel Ellis
-        subtitle: 'Microsoft, USA'
+        subtitle: 'Pastor, Reformation Orthodox Presbyterian Church'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
