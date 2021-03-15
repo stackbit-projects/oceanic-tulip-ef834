@@ -112,17 +112,6 @@ sections:
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
     grid_items:
-      - title: Eric Widget
-        subtitle: 'React Awesome, USA'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: images/avatar_1.jpg
-        image_alt: Speaker 1 photo
-        image_position: top
       - title: Parsley Montana
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
