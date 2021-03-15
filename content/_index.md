@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: BRBC Family Camp
-    subtitle: Promoting Christian unity through
+    subtitle: Learn. Connect. Play.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
