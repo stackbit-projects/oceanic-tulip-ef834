@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: BRBC Family Camp
-    subtitle: Conference for Creative People
+    subtitle: A Bible Conference
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
