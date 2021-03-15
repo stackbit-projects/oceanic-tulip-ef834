@@ -25,7 +25,7 @@ sections:
       - image: images/stackbit.svg
         image_alt: Stackbit logo
         image_align: center
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: large
