@@ -55,9 +55,9 @@ sections:
   - type: features_section
     title: What you’ll experience
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: >
+          BRBC Family Camp is an annual church camp for the families and friends
+          of the Presbytery of Southern California.
         align: center
     feature_padding_vert: medium
     align: center
