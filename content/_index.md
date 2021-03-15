@@ -123,7 +123,7 @@ sections:
         image: images/avatar_2.jpg
         image_alt: Speaker 2 photo
         image_position: top
-      - title: Indigo Violet
+      - title: Joel Ellis
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
