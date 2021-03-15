@@ -82,11 +82,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Fellowship and recreation.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Enjoy extended times of\_fellowship with the saints from the regional church during meals, sports, and lots of relaxing free time.\n"
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
