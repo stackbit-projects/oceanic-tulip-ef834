@@ -123,7 +123,7 @@ sections:
         image: images/avatar_2.jpg
         image_alt: Speaker 2 photo
         image_position: top
-      - title: Joel Ellis
+      - title: Rev. Joel Ellis
         subtitle: 'Microsoft, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
