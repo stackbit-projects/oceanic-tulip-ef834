@@ -28,9 +28,6 @@ sections:
       - image: images/netlify.svg
         image_alt: Netlify logo
         image_align: center
-      - image: images/github.svg
-        image_alt: GitHub logo
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
