@@ -31,16 +31,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: grid_section
     grid_items:
       - title: 5 Days
