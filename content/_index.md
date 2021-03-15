@@ -113,7 +113,7 @@ sections:
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Rev. Roger Wagner
-        subtitle: 'The Studio, Distributed, Estonia'
+        subtitle: 'Pastor, Bayview Orthodox Presbyterian Church'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
