@@ -67,10 +67,9 @@ sections:
   - type: features_section
     features:
       - title: Worship
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: >
+          Join with brothers and sisters throughout Southern California,
+          Arizona, and Hawaii in the worship of God.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
