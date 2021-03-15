@@ -75,10 +75,8 @@ sections:
         media_position: right
         media_width: sixty
       - title: Classes
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: |
+          Bible-centered classes, crafts, and games for every age.
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
