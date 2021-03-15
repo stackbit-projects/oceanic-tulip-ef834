@@ -39,7 +39,8 @@ sections:
         image_width: twenty-five
       - title: 2 Speakers
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: |
+          Pastors Roger Wagner and Joel Ellis.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
