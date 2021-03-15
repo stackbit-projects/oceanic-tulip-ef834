@@ -123,6 +123,7 @@ sections:
         image: images/avatar_2.jpg
         image_alt: Speaker 2 photo
         image_position: top
+        image_align: center
       - title: Rev. Joel Ellis
         subtitle: 'Pastor, Reformation Orthodox Presbyterian Church'
         content: >-
