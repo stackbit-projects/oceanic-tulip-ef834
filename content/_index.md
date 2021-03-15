@@ -61,7 +61,7 @@ sections:
         url: >-
           https://www.openstreetmap.org/?mlat=34.2345&mlon=-117.2433#map=12/34.2345/-117.2433
         style: link
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
         new_window: true
