@@ -18,7 +18,7 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
-    title: Locat
+    title: 'Twin Peaks, CA'
     subtitle: We Are Supported by Awesome Companies
     align: center
     grid_items:
