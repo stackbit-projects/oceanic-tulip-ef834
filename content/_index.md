@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: BRBC Family Camp
+    title: Learn. Connect. Play.
     subtitle: Learn. Connect. Play.
     content: '**April 14 - 16, 2021**'
     actions:
