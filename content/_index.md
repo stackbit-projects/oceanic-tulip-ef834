@@ -56,17 +56,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    actions:
-      - label: lorem-ipsum
-        url: >-
-          https://www.openstreetmap.org/?mlat=34.2345&mlon=-117.2433#map=12/34.2345/-117.2433
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
+    actions: []
   - type: grid_section
     grid_items:
       - title: 5 Days
