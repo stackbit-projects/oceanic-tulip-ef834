@@ -46,7 +46,7 @@ sections:
     background_color: none
     actions: []
     title: '@ PineCrest Christian Conference Center'
-    subtitle: In the San Bernadido National Forest
+    subtitle: TSan Bernadido National Forest
   - type: grid_section
     grid_items:
       - title: 5 Days
