@@ -45,6 +45,7 @@ sections:
     padding_bottom: large
     background_color: none
     actions: []
+    title: In the beautiful San Bernadino National Forest
   - type: grid_section
     grid_items:
       - title: 5 Days
