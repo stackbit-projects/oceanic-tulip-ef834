@@ -69,6 +69,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
+    title: adsf
   - type: features_section
     title: What you’ll experience
     features:
