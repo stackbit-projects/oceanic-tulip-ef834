@@ -54,16 +54,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    actions:
-      - label: See Accommodations
-        url: '#'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     title: '@ PineCrest Christian Conference Center'
     subtitle: 'Twin Peaks, CA in San Bernadido National Forest'
   - type: grid_section
