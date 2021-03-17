@@ -7,7 +7,7 @@ sections:
     content: |
       **June 14 - 18, 2021**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Register Today!
         url: /about
         style: primary
     align: center
