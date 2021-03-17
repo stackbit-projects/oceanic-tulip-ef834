@@ -412,11 +412,15 @@ sections:
       - title: Address
         content: "1535 W. Avenida de las America ,Tucson, AZ\_ 85704\n\n520-276-0824 • <registrar@opfamilycamp.com>\n"
       - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+        content: >
+          **Jason Lund, President and Dean
+
+          **[Jason.Lund@cbre.com](mailto:jason.lund@cbre.com)Pete and Jackie
+          Oftedahl, Registrars
+
+          520-276-0824
+
+          John Kent, Teachers Supervisor
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
