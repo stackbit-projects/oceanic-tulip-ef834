@@ -94,8 +94,9 @@ sections:
         image_width: twenty-five
       - title: Fun Activities
         title_align: left
-        content: |
-          Pastors Roger Wagner and Joel Ellis.
+        content: >
+          Swimming, archery, zip-line, ping pong, hiking, skateboarding, corn
+          hole, soccer, horseshoes, basketball, and more!
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
