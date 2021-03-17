@@ -96,7 +96,8 @@ sections:
         title_align: left
         content: >
           Swimming, archery, zip-line, ping pong, hiking, skateboarding, corn
-          hole, soccer, horseshoes, basketball, and more!
+          hole, soccer, horseshoes, basketball, softball, playgrounds, talent
+          show, and more.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
