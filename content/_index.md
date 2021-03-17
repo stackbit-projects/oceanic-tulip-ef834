@@ -24,16 +24,7 @@ sections:
       - image: images/stackbit.svg
         image_alt: Stackbit logo
         image_align: center
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title_align: left
         content: |
           ![](/images/Image%203-17-21%20at%209.24%20AM.jpg)
