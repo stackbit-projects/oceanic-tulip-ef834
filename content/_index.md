@@ -123,7 +123,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Christian Teachingd
+      - title: Christian Teaching
         content: >
           Join with brothers and sisters throughout Southern California,
           Arizona, and Hawaii in the worship of God.
