@@ -46,7 +46,7 @@ sections:
     background_color: none
     actions: []
     title: '@ PineCrest Christian Conference Center'
-    subtitle: TSan Bernadido National Forest
+    subtitle: 'Twin Peaks, CA in San Bernadido National Forest'
   - type: grid_section
     grid_items:
       - title: 5 Days
