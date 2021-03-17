@@ -442,7 +442,7 @@ seo:
       value: BRBC Family Camp
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: The annual church camp for the families and friends of the Presbytery of Southern California.
       keyName: property
     - name: 'og:image'
       value: images/feature-3.jpg
