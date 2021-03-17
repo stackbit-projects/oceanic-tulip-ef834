@@ -99,7 +99,7 @@ sections:
           hole, soccer, horseshoes, basketball, softball, playgrounds, talent
           show, and more. Naps included.
         content_align: left
-        image: images/20-speakers.svg
+        image: images/stick-man-playing-soccer-svgrepo-com.svg
         image_alt: Section item 3 icon
         image_position: left
         image_width: twenty-five
