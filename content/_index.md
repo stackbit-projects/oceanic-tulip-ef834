@@ -34,8 +34,6 @@ sections:
             no_follow: false
             type: action
       - title_align: left
-        content: |
-          ![](/images/Image%203-17-21%20at%209.24%20AM.jpg)
         content_align: center
         actions:
           - label: Get Directions
