@@ -46,6 +46,7 @@ sections:
     background_color: none
     actions: []
     title: In the beautiful San Bernadino National Forest
+    subtitle: PineCrest Christian Conference Center
   - type: grid_section
     grid_items:
       - title: 5 Days
