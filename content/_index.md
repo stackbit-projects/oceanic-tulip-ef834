@@ -129,7 +129,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Classes
+      - title: Large Group
         content: |
           Bible-centered classes, crafts, and games for every age.
         image: images/feature-2.jpg
