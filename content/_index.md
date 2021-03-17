@@ -19,7 +19,6 @@ sections:
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
-    title: Pinecrest Christian Conference Center
     subtitle: In the beautiful San Bernadino National Forest
     align: center
     grid_items:
