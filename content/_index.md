@@ -453,7 +453,7 @@ seo:
     - name: 'twitter:title'
       value: BRBC Family Camp
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value:The annual church camp for the families and friends of the Presbytery of Southern California.
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
