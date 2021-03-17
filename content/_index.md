@@ -414,9 +414,10 @@ sections:
       - title: Contact Us
         content: |
           [Jason.Lund@cbre.com](mailto:jason.lund@cbre.com)
-          \<br/>
 
-          <registrar@opfamilycamp.com>
+
+          \<br/>[
+          registrar@opfamilycamp.com](mailto:registrar@opfamilycamp.com)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
