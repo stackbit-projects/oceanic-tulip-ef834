@@ -410,7 +410,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Address
-        content: "1535 W. Avenida de las America ,Tucson, AZ\_ 85704\n\n520-276-0824 • <registrar@opfamilycamp.com>\n"
+        content: "1535 W. Avenida de las Americas ,Tucson, AZ\_ 85704\n\n520-276-0824 • <registrar@opfamilycamp.com>\n"
       - title: Contact Us
         content: |
           [Jason.Lund@cbre.com](mailto:jason.lund@cbre.com)
