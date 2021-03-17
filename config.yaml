@@ -9,7 +9,7 @@ params:
   header:
     title: BRBC Family Camp
     logo: images/logo.svg
-    logo_alt: Event logo
+    logo_alt: BRBC Family Camp
     has_primary_nav: false
     has_secondary_nav: true
     secondary_nav_links:
