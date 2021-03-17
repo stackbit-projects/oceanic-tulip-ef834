@@ -63,16 +63,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Get Directions
-        url: >-
-          https://duckduckgo.com/?q=Pinecrest+Christian+Conference+Center&t=brave&ia=web&iaxm=places
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
     title: '@ PineCrest Christian Conference Center'
     subtitle: 'Twin Peaks, CA in San Bernadido National Forest'
   - type: grid_section
