@@ -124,9 +124,7 @@ sections:
   - type: features_section
     features:
       - title: Christian Teaching
-        content: >
-          Join with brothers and sisters throughout Southern California,
-          Arizona, and Hawaii in the worship of God.
+        content: "Our camp speakers are committed to the Reformed faith\n\n\n\nSpeakers at the Blue Ridge Bible Conference have been quite varied. They have been, and continue to be, committed to the Reformed faith. Speakers have included pastors of our\_own and other presbyteries, missionaries, seminary teachers, various denominational officers, and well-known people from sister denominations. They are committed to the Reformed Faith in addressing issues from.\n\nThe Blue Ridge Bible Conference Board has sought to provide a variety of speakers with different kinds of messages. Topics have included pastoral concerns, theology, church history, Christian education, foreign missions, apologetics, and evangelism and outreach. (Click\_[here](http://www.opfamilycamp.com/about/past-speakers/)\_for a list a past speakers.)\n"
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
