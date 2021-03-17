@@ -140,7 +140,7 @@ sections:
         media_width: sixty
       - title: Fellowship and recreation.
         content: "Enjoy extended times of\_fellowship with the saints from the regional church during meals, sports, and lots of relaxing free time.\n"
-        image: images/PICT0231-1024x680.jpeg
+        image: images/PICT0006-700x300.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
