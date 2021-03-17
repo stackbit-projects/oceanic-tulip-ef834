@@ -27,8 +27,7 @@ sections:
         image_alt: Stackbit logo
         image_align: center
         actions: []
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: |
           ![](/images/Image%203-17-21%20at%209.24%20AM.jpg)
