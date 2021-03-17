@@ -27,7 +27,6 @@ sections:
         image_alt: Stackbit logo
         image_align: center
         actions: []
-        title: asdff
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
