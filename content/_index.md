@@ -69,7 +69,7 @@ sections:
     subtitle: 'Twin Peaks, CA in San Bernadido National Forest'
   - type: grid_section
     grid_items:
-      - title: '5 Days, 4 Nights'
+      - title: 5 Days
         title_align: left
         content: >
           Camp starts Monday evening with dinner and ends Friday morning before
