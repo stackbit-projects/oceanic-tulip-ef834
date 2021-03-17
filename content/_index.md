@@ -45,7 +45,7 @@ sections:
     padding_bottom: large
     background_color: none
     actions:
-      - label: Accod
+      - label: See Accomidations
         url: '#'
         style: link
         has_icon: false
