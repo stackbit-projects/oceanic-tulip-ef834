@@ -410,7 +410,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Address
-        content: "1535 W. Avenida de las America\n\\<br>\n\nTucson, AZ\_ 85704\n\n520-276-0824\n<registrar@opfamilycamp.com>\n"
+        content: "1535 W. Avenida de las America\n\nTucson, AZ\_ 85704\n\n520-276-0824\n\n<registrar@opfamilycamp.com>\n"
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
