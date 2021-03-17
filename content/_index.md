@@ -71,9 +71,10 @@ sections:
     grid_items:
       - title: 5 Days
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: >
+          Camp starts Monday evening with dinner and ends Friday morning before
+          lunch. Every day is filled with opportunities for learning, relaxing,
+          and fun fellowship.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
