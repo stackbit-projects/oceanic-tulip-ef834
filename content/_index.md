@@ -82,7 +82,11 @@ sections:
         image_width: twenty-five
       - title: Great Food
         title_align: left
-        content: "\_Conference meals are served buffet style in the spacious new dining facilities. A variety of tasty foods (yes, really!) are available for breakfast, lunch, and dinner. The cost covers a\_full week (5 days and four nights) of accommodations and meals.\n"
+        content: >+
+          Breakfast, lunch, and dinner are served buffet style and offer a
+          variety of tasty foods. Accommodations can be made upon special
+          request. Plenty of snacks too.
+
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
