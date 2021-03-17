@@ -124,7 +124,7 @@ sections:
   - type: features_section
     features:
       - title: Christian Teaching
-        content: "Family Camp has classes for all ages. Classes are taught by loving teachers who are committed to the Reformed faith. Camp speakers have included pastors of our\_own and other presbyteries, missionaries, seminary teachers, various denominational officers, and well-known people from sister denominations.\n"
+        content: "Family Camp offers classes for all ages. Classes are taught by loving teachers who are committed to the Reformed faith. Camp speakers have included pastors of our\_own and other presbyteries, missionaries, seminary teachers, various denominational officers, and well-known people from sister denominations.\n"
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
