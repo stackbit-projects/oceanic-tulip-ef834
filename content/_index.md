@@ -33,6 +33,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image: images/charming-cedar.jpeg
       - title_align: left
         content_align: center
         actions:
