@@ -124,7 +124,10 @@ sections:
   - type: features_section
     features:
       - title: Camp Gatherings
-        content: "Family Camp offers classes for all ages. Classes are taught by loving teachers who are committed to the Reformed faith. Camp speakers have included pastors of our\_own and other presbyteries, missionaries, seminary teachers, various denominational officers, and well-known people from sister denominations.\n"
+        content: >
+          We gather together twice a day for singing, announcements, and a
+          message from a camp speaker. These are fun and encouraging times
+          together.
         image: images/feature-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
