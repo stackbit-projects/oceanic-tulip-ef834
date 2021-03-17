@@ -20,7 +20,7 @@ sections:
     background_image_size: cover
   - type: grid_section
     title: 'Twin Peaks, CA'
-    subtitle: ' in the San Bernadino National Forest'
+    subtitle: ' Twin Peaks, in the San Bernadino National Forest'
     align: center
     grid_items:
       - image: images/stackbit.svg
