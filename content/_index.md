@@ -88,7 +88,7 @@ sections:
           request. Plenty of snacks too.
 
         content_align: left
-        image: images/plate-svgrepo-com (1).svg
+        image: images/incredible-sunflower.svg
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
