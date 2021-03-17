@@ -74,7 +74,7 @@ sections:
         content: >
           Camp starts Monday evening with dinner and ends Friday morning before
           lunch. Every day is filled with opportunities for learning, relaxing,
-          and fun fellowship.
+          and playing with family and friends.
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
