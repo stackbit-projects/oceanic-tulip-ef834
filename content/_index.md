@@ -97,7 +97,7 @@ sections:
         content: >
           Swimming, archery, zip-line, ping pong, hiking, skateboarding, corn
           hole, soccer, horseshoes, basketball, softball, playgrounds, talent
-          show, and more.
+          show, and more. Naps included.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
