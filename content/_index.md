@@ -415,8 +415,9 @@ sections:
         content: |
           [Jason.Lund@cbre.com](mailto:jason.lund@cbre.com)
 
+          \<br/>
 
-          \<br/>[
+          [
           registrar@opfamilycamp.com](mailto:registrar@opfamilycamp.com)
     grid_cols: two
     grid_gap_horiz: medium
