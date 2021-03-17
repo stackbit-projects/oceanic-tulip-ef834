@@ -25,7 +25,7 @@ sections:
         image_alt: Stackbit logo
         image_align: center
         actions:
-          - label: lorem-ipsum
+          - label: See Accomodations
             url: '#'
             style: link
             has_icon: false
