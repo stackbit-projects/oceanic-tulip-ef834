@@ -15,7 +15,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/hero-background.jpg
+    background_image: images/BRBC-2019-1-of-1.jpeg
     background_image_opacity: 15
     background_image_size: cover
   - type: grid_section
