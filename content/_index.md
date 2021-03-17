@@ -45,7 +45,6 @@ sections:
     padding_bottom: large
     background_color: none
     actions: []
-    title: PineCrest Christian Conference Cent
     subtitle: PineCrest Christian Conference Center
   - type: grid_section
     grid_items:
