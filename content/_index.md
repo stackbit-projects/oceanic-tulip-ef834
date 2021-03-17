@@ -46,6 +46,7 @@ sections:
     background_color: none
     actions: []
     title: '@ PineCrest Christian Conference Center'
+    subtitle: '5,000 ft in the San Bernandido National Forest'
   - type: grid_section
     grid_items:
       - title: 5 Days
