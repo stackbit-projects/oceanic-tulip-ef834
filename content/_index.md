@@ -92,7 +92,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
-      - title: 2 Speakers
+      - title: Fun Activities
         title_align: left
         content: |
           Pastors Roger Wagner and Joel Ellis.
