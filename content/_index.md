@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Learn. Rel
+    title: 'Reconnect '
     subtitle: BRBC Family Camp
     content: |
       **June 14 - 18, 2021**
