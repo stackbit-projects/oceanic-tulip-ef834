@@ -33,7 +33,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/charming-cedar.jpeg
+        image: images/elite-robin.jpeg
         actions_width: auto
         actions_align: center
       - title_align: left
