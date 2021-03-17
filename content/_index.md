@@ -82,7 +82,7 @@ sections:
         image_width: twenty-five
       - title: Great Food
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: "\_Conference meals are served buffet style in the spacious new dining facilities. A variety of tasty foods (yes, really!) are available for breakfast, lunch, and dinner. The cost covers a\_full week (5 days and four nights) of accommodations and meals.\n"
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
