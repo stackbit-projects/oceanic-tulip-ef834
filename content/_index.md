@@ -35,6 +35,7 @@ sections:
             type: action
         image: images/charming-cedar.jpeg
         actions_width: auto
+        actions_align: center
       - title_align: left
         content_align: center
         actions:
