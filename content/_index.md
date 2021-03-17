@@ -132,7 +132,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Large Group
+      - title: Christian Teaching
         content: "Family Camp offers classes for all ages. Classes are taught by loving teachers who are committed to the Reformed faith. Camp speakers have included pastors of our\_own and other presbyteries, missionaries, seminary teachers, various denominational officers, and well-known people from sister denominations.\n"
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
