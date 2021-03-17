@@ -433,7 +433,7 @@ sections:
     background_color: none
 seo:
   title: BRBC Family Camp
-  description: The preview of the Event theme
+  description: The annual church camp for the families and friends of the Presbytery of Southern California.
   extra:
     - name: 'og:type'
       value: website
