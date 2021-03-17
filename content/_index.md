@@ -31,7 +31,8 @@ sections:
         content_align: center
         actions:
           - label: Get Directions
-            url: '#'
+            url: >-
+              https://duckduckgo.com/?q=Pinecrest+Christian+Conference+Center&t=brave&ia=web&iaxm=places
             style: primary
             has_icon: false
             icon: arrow-left
