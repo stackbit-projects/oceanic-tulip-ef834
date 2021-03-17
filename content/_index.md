@@ -8,7 +8,8 @@ sections:
       **June 14 - 18, 2021**
     actions:
       - label: Register Today!
-        url: /about
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
         style: primary
     align: center
     padding_top: large
