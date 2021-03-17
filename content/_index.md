@@ -21,7 +21,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/spectacular-apple.jpeg
+      - image: images/magnificent-amaranth.jpeg
         image_alt: Stackbit logo
         image_align: center
         actions: []
