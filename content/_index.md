@@ -45,7 +45,7 @@ sections:
     padding_bottom: large
     background_color: none
     actions: []
-    title: in the beautiful San Bernadino National Forest
+    title: PineCrest Christian Conference Cent
     subtitle: PineCrest Christian Conference Center
   - type: grid_section
     grid_items:
