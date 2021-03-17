@@ -35,7 +35,7 @@ sections:
           - label: lorem-ipsum
             url: >-
               https://duckduckgo.com/?q=1140+Pine+Crest+Rd+Twin+Peaks%2C+CA&t=brave&ia=web&iaxm=maps&strict_bbox=0&bbox=33.62599205009959%2C-112.08625443084891%2C33.61700889725838%2C-112.07169983139208
-            style: secondary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: right
