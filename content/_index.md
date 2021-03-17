@@ -28,7 +28,7 @@ sections:
       - title_align: left
         content: |
           ![](/images/Image%203-17-21%20at%209.24%20AM.jpg)
-        content_align: left
+        content_align: center
         actions:
           - label: lorem-ipsum
             url: '#'
