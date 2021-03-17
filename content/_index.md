@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'A fellowship '
+    title: Re
     subtitle: BRBC Family Camp
     content: |
       **June 14 - 18, 2021**
