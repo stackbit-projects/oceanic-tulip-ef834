@@ -45,7 +45,6 @@ sections:
     padding_bottom: large
     background_color: none
     actions: []
-    subtitle: in the
     title: '@ PineCrest Christian Conference Center'
   - type: grid_section
     grid_items:
