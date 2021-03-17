@@ -8,7 +8,7 @@ params:
   base_font: sans-serif
   header:
     title: BRBC Family Camp
-    logo: images/logots-141x1502.jpeg
+    logo: images/cool-steel.jpeg
     logo_alt: BRBC Family Camp
     has_primary_nav: false
     has_secondary_nav: true
