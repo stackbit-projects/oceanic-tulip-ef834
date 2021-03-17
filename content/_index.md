@@ -21,7 +21,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/pccc map 3.jpeg
+      - image: images/rainy-zebra.jpeg
         image_alt: Stackbit logo
         image_align: center
         actions: []
