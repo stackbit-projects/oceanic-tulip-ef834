@@ -30,7 +30,7 @@ sections:
           ![](/images/Image%203-17-21%20at%209.24%20AM.jpg)
         content_align: center
         actions:
-          - label: Get directions
+          - label: Get Directions
             url: '#'
             style: primary
             has_icon: false
