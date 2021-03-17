@@ -123,7 +123,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Camp Gatherings
+      - title: All-Camp Gatherings
         content: >
           We gather together after breakfast and dinner for singing,
           announcements, and a message from a camp speaker. These are fun and
