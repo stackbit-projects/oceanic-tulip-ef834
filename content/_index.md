@@ -46,7 +46,7 @@ sections:
     background_color: none
     actions: []
     subtitle: PineCrest Christian Conference Center
-    title: '@ the PineCrest Christian Conference Center'
+    title: '@ PineCrest Christian Conference Center'
   - type: grid_section
     grid_items:
       - title: 5 Days
