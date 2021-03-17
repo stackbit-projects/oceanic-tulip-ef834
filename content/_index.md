@@ -410,13 +410,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
-
-          **Time:** 9:30 AM to 3:30 PM
+        content: "1535 W. Avenida de las America\n\\</br>\nTucson, AZ\_ 85704\n\\</br>\n520-276-0824\n\n\\</br>\n<registrar@opfamilycamp.com>\n"
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
@@ -433,7 +427,9 @@ sections:
     background_color: none
 seo:
   title: BRBC Family Camp
-  description: The annual church camp for the families and friends of the Presbytery of Southern California.
+  description: >-
+    The annual church camp for the families and friends of the Presbytery of
+    Southern California.
   extra:
     - name: 'og:type'
       value: website
@@ -442,7 +438,9 @@ seo:
       value: BRBC Family Camp
       keyName: property
     - name: 'og:description'
-      value: The annual church camp for the families and friends of the Presbytery of Southern California.
+      value: >-
+        The annual church camp for the families and friends of the Presbytery of
+        Southern California.
       keyName: property
     - name: 'og:image'
       value: images/feature-3.jpg
@@ -453,7 +451,9 @@ seo:
     - name: 'twitter:title'
       value: BRBC Family Camp
     - name: 'twitter:description'
-      value: The annual church camp for the families and friends of the Presbytery of Southern California.
+      value: >-
+        The annual church camp for the families and friends of the Presbytery of
+        Southern California.
     - name: 'twitter:image'
       value: images/feature-3.jpg
       relativeUrl: true
