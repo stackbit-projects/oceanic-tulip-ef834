@@ -20,7 +20,9 @@ sections:
     background_image_size: cover
   - type: grid_section
     title: 'Twin Peaks, CA'
-    subtitle: Pinecrest Christian Conference Center in the San Bernadino National Forest
+    subtitle: >-
+      @ Pinecrest Christian Conference Center in the San Bernadino National
+      Forest
     align: center
     grid_items:
       - image: images/stackbit.svg
