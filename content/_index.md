@@ -76,7 +76,7 @@ sections:
           lunch. Every day is filled with opportunities for learning, relaxing,
           and playing with family and friends.
         content_align: left
-        image: images/day-svgrepo-com.svg
+        image: images/remarkable-petunia.svg
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
