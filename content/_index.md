@@ -439,7 +439,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: BRBC Family Camp
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
