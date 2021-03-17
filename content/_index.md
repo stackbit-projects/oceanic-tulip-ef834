@@ -128,7 +128,7 @@ sections:
           We gather together twice a day for singing, announcements, and a
           message from a camp speaker. These are fun and encouraging times
           together.
-        image: images/feature-1.jpg
+        image: images/PICT0057.jpeg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
