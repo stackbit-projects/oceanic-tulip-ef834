@@ -80,7 +80,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-      - title: Great Food
+      - title: Yummy Food
         title_align: left
         content: >+
           Breakfast, lunch, and dinner are served buffet style and offer a
