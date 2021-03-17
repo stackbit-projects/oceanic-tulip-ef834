@@ -45,19 +45,19 @@ sections:
     padding_bottom: large
     background_color: none
     actions:
-      - label: Get Directions
-        url: >-
-          https://duckduckgo.com/?q=Pinecrest+Christian+Conference+Center&t=brave&ia=web&iaxm=places
-        style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
+      - label: Get Directions
+        url: >-
+          https://duckduckgo.com/?q=Pinecrest+Christian+Conference+Center&t=brave&ia=web&iaxm=places
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
