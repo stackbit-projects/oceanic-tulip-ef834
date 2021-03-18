@@ -172,7 +172,7 @@ sections:
     grid_items:
       - title: Rev. Roger Wagner
         subtitle: 'Pastor, Bayview Orthodox Presbyterian Church'
-        content: "Pastor Wagner has been an ordained minister of the Orthodox Presbyterian Church for 40 years, serving the Bayview congregation since 1983. He is a graduate of Westmont College (B.A. in English), Westminster Theological Seminary[** **](https://twitter.com/)(M.Div.), and Westminster Seminary California (D.Min.). He is the author of *Tongues Aflame*\_(Mentor, 2004) and numerous other articles and book chapters. He and his wife Sherry raised their three children in Chula Vista, and now enjoy visiting their families, including nine grandchildren, scattered from Chula Vista to Washington, D.C.\n\n\n[**Twitter**](https://twitter.com/)\n"
+        content: "Pastor Wagner has been an ordained minister of the Orthodox Presbyterian Church for 40 years, serving the Bayview congregation since 1983. He is a graduate of Westmont College (B.A. in English), Westminster Theological Seminary (M.Div.), and Westminster Seminary California (D.Min.). He is the author of *Tongues Aflame*\_(Mentor, 2004) and numerous other articles and book chapters. He and his wife Sherry raised their three children in Chula Vista, and now enjoy visiting their families, including nine grandchildren, scattered from Chula Vista to Washington, D.C.\n\n[**Twitter**](https://twitter.com/)\n"
         image: images/avatar_2.jpg
         image_alt: Speaker 2 photo
         image_position: top
