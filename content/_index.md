@@ -279,7 +279,7 @@ sections:
         content: |
           ***
 
-          ### No Housing
+          ### For Day trippers
 
           Additional meals may be purchased for $11 each.
 
