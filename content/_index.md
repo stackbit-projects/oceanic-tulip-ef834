@@ -345,11 +345,11 @@ sections:
         actions_width: full-width
       - title_align: left
         content: |
-
+          ####
 
           #### Condo Living
 
-          *   Standard: $64 per day
+          Standard: $64 per day
         content_align: left
         actions: []
         actions_align: left
