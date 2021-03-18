@@ -312,7 +312,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: For Families
+      - title: Lodge Living
         subtitle: + All Meals
         title_align: left
         content: |
