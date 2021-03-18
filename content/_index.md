@@ -279,7 +279,7 @@ sections:
         content: |
           ***
 
-          #### For Daytrippers
+          #### Conference Only
 
           Additional meals may be purchased for $11 each.
 
