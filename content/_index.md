@@ -399,7 +399,7 @@ sections:
           email you the total due and a link to pay online. If camp is canceled,
           you will receive a full refund.
         content_align: left
-      - title: What if I can't afford to go?
+      - title: Can I get helping paying for camp?
         title_align: left
         content: "Call or send an email to the\_[camp registrar](mailto:registrar@opfamilycamp.com)\_for the scholarship application form. You can also help reduce your fees by serving as a camp helper. Learn more on the\_[Help Wanted](https://www.opfamilycamp.com/helpwanted/)\_page.\n"
         content_align: left
