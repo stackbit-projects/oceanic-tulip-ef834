@@ -271,7 +271,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Pricing
-    subtitle: Pass for the event
+    subtitle: Registration Fees for 2021. No Deposit
     grid_items:
       - title: Base Camp Ticket
         subtitle: April 14
