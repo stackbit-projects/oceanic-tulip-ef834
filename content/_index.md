@@ -243,8 +243,8 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Times and locations for meetings or activities may change. You'll
+          receive notifications through a camp messaging app.
         media_position: top
         media_width: fifty
         align: left
