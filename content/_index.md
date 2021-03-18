@@ -273,7 +273,7 @@ sections:
     title: Pricing
     subtitle: Registration fees for 2021. No deposit required.
     grid_items:
-      - title: Conference Only
+      - title: For Daytrippers
         subtitle: + 2 Meals
         title_align: left
         content: |
