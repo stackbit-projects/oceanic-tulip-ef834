@@ -201,10 +201,49 @@ sections:
       Friday.
     features:
       - title: Fast tracks Iconic Nike campaign with the JAMstack
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
+        content: >
+          Time | Slot | Description
+
+          :---------- | :---------- | :----------
+
+          9h00 | Check-in / Breakfast | -
+
+          10h00 | Digging into a Linux KernelLinux Foundation | Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo
+
+          11h00 | Introducing Windows 12Microsoft | Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+          12h00 | Lunch | -
+
+          13h00 | How to kill a elephant with one fingerDelta Command | Lorem
+          ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+          ea commodo
+
+          14h00 | Presenting iPadApple, Inc. | Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+          15h00 | Coffee-break | -
+
+          16h00 | Revealing Facebook SecretsFacebook | Lorem ipsum dolor sit
+          amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+          ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+          17h00 | Why do I prefer Android over iPhoneApple, Inc. | Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo
         media_position: right
         media_width: sixty
       - title: 'Um, its about your JavaScript...'
