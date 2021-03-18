@@ -296,16 +296,22 @@ sections:
       - title: Conference + RV Parking
         subtitle: April 14 - 15
         title_align: left
-        content: |
+        content: >
           ***
+
 
           ### + 2 Meals
 
-          Three spaces available. First come, first serve.
+
+          Three spaces available. First come, first serve. Additional meals may
+          be purchased for $11 each.
+
 
           *   Standard: $34 per day
 
+
           *   Youth (4-12yrs): $18 per day
+
 
           *   Toddlers/Infants (age < 3): $6 per day
         content_align: left
