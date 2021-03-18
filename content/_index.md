@@ -271,7 +271,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Pricing
+    title: Cost of Camp
     subtitle: Registration fees for 2021. No deposit required.
     grid_items:
       - title: Conference Only
