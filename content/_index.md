@@ -199,8 +199,7 @@ sections:
       Camp check-in begins Monday @ 4pm. Check-out ends after the second morning
       meeting on Friday.
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           Time    | Activity | Details
 
