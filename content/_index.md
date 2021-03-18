@@ -281,9 +281,9 @@ sections:
 
           #### For Daytrippers
 
-          *   Standard: $32/day
-          *   Youth (4-12yrs): $17/day
-          *   Littles (age < 3): $5/day
+          *   Ages 13+: $32/day
+          *   Ages 4-12: $17/day
+          *   Ages 0-3: $5/day
         content_align: left
         actions:
           - label: Register
