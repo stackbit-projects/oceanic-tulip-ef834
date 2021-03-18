@@ -240,7 +240,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: >-
           Times and locations for meetings or activities may change. You'll
-          receive notifications through a camp messaging app.
+          receive notifications about changes through our camp messaging app.
         media_position: top
         media_width: fifty
         align: left
