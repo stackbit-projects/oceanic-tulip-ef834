@@ -391,7 +391,7 @@ sections:
         title_align: left
         content: "Yes, families often team up together to make accommodations work. It is required\_that you let the registrar know ahead of time with a comment in the “special comment” section of the registration form.\n"
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: Can I get a refund?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
