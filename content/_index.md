@@ -290,7 +290,7 @@ sections:
             url: >-
               https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
             style: primary
-        actions_align: left
+        actions_align: center
         actions_width: full-width
       - title: RV Parking
         subtitle: + 2 Meals + Camp T-shirt
