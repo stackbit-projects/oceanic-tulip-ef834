@@ -294,7 +294,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: RV Parking
-        subtitle: 2 Meals + To-shirt
+        subtitle: 2 Meals + Camp T-shirt
         title_align: left
         content: >
           ***
