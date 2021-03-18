@@ -343,7 +343,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: lorem-ipsum
+      - title: Conference + Condo
         subtitle: lorem-ipsum
         title_align: left
         content: |
