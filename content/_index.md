@@ -335,7 +335,7 @@ sections:
 
           #### For Adults
 
-         - Standard: $64 per day
+        - Standard: $64 per day
         content_align: left
         actions: []
         actions_align: left
