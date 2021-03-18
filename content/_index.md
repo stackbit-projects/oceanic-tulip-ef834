@@ -196,9 +196,8 @@ sections:
   - type: features_section
     title: Your Camp Schedule
     subtitle: >-
-      Camp begins with check-in on Monday at 4:00 p.m. and ends after the second
-      morning meeting on Friday. There will be NO lunch served on Monday or
-      Friday.
+      Camp check-in begins Monday @ 4pm. Check-out ends after the second morning
+      meeting on Friday. No lunch on Friday.
     features: []
     feature_padding_vert: large
     align: center
