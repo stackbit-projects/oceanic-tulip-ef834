@@ -271,7 +271,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Registration Fees
     subtitle: Registration fees for 2021. No deposit required.
     grid_items:
       - title: Conference Only
