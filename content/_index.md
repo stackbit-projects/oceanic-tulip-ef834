@@ -276,15 +276,16 @@ sections:
       - title: Conference Only with Two Meals
         subtitle: April 14
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
+
           ### Free
 
           Watch only access for Base Camp track
 
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
+          *   Standard: $32 per day
+          *   Youth (4-12yrs): $17 per day
+          *   Toddlers/Infants (age < 3): $5 per day
         content_align: left
         actions:
           - label: Registration
