@@ -318,7 +318,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Lodge Living
-        subtitle: + All Meals
+        subtitle: + All Meals + Camp T-shirt
         title_align: left
         content: |
           ***
