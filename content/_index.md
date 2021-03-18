@@ -195,9 +195,7 @@ sections:
     background_color: none
   - type: features_section
     title: Your Camp Schedule
-    subtitle: >-
-      Camp check-in begins Monday @ 4pm. Check-out ends after the second morning
-      meeting on Friday.
+    subtitle: 'Camp check-in begins Monday @ 4pm. Check-out ends Friday @ 11:45am.'
     features:
       - content: >
           Time    | Activity | Details
