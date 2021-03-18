@@ -318,17 +318,18 @@ sections:
       - title: Conference + Lodge
         subtitle: April 14 - 16
         title_align: left
-        content: |-
-          ---
-          ### $139
+        content: |
+          ***
 
-          HD quality for Base camp and Summit tracks
+          ### + All Meals
 
-          * Interactive sessions with speakers
-          * Conference Stickers & more sent to your home
-          * Q&A with speakers
-          * Certificates on Workshops
-          * Technology discussion rooms
+          Additional meals may be purchased for $11 each.
+
+          *   Standard: $32 per day
+
+          *   Youth (4-12yrs): $17 per day
+
+          *   Toddlers/Infants (age < 3): $5 per day
         content_align: left
         actions:
           - label: Order Now
