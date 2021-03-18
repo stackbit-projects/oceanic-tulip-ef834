@@ -425,7 +425,8 @@ sections:
     title: Registration closes May 31. Register today!
     actions:
       - label: Get registered today
-        url: /thank-you
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
         style: primary
         has_icon: true
         icon: arrow-right
