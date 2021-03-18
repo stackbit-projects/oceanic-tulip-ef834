@@ -322,7 +322,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Lodge
-        subtitle: April 14 - 16
+        subtitle: + All Meals
         title_align: left
         content: |
           ***
