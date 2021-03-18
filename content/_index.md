@@ -206,44 +206,60 @@ sections:
 
           :---------- | :---------- | :----------
 
-          9h00 | Check-in / Breakfast | -
+          7:00 am | Rise and Shine | -
 
-          10h00 | Digging into a Linux KernelLinux Foundation | Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo
+          7:15 am | Prayer Meeting | -
 
-          11h00 | Introducing Windows 12Microsoft | Lorem ipsum dolor sit amet,
+          8:00 am | Breakfast at Dining Hall | Lorem ipsum dolor sit amet,
           consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
           labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
           exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-          12h00 | Lunch | -
+          9:00 am | Singing and Announcements | -
 
-          13h00 | How to kill a elephant with one fingerDelta Command | Lorem
-          ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-          ea commodo
-
-          14h00 | Presenting iPadApple, Inc. | Lorem ipsum dolor sit amet,
+          9:30 am | Morning Classes for All Ages | Lorem ipsum dolor sit amet,
           consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
           labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
           exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-          15h00 | Coffee-break | -
+          10:30 am | Adult Class Coffee Break | Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-          16h00 | Revealing Facebook SecretsFacebook | Lorem ipsum dolor sit
-          amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-          ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          11:00 am | Adult Class Resumes | -
 
-          17h00 | Why do I prefer Android over iPhoneApple, Inc. | Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-          commodo
+          11:45 am | Morning Classes End | Adults will go pick up children and
+          take them to lunch.
+
+          12:00 pm | Lunch at Dining Hall | Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+
+          1:00 pm | Recreation Time | Lorem ipsum dolor sit amet, consectetur
+          adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+          ullamco laboris nisi ut aliquip ex ea commodo
+
+          4:00 pm | BRBC Meeting (Thursday Only) | 
+
+          5:30 pm | Dinner at Dining Hall |
+
+          6:45 pm | Singing and Sport Announcements |
+
+          7:15 pm | Evening Family Meeting |
+
+          8:15 pm | Free Time |
+
+          11:00 pm | Light's Out |
+
+
+          \*Times and locations for meetings or activities may change due to
+          conflicts with the other camp that will be sharing the campground with
+          us, so please be on time for all meetings as any announcements will be
+          made then.\*
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
