@@ -302,9 +302,8 @@ sections:
           Three spaces available. No hookups. First come, first serve.
           *Additional meals may be purchased for $11 each.*
 
-          *   Standard: $34 per day
-          *   Youth (4-12yrs): $18 per day
-          *   Toddlers/Infants (age < 3): $6 per day
+          *   Standard: $34 per day *   Youth (4-12yrs): $18 per day *  
+          Toddlers/Infants (age < 3): $6 per day
         content_align: left
         actions:
           - label: Registration
@@ -347,7 +346,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: For Adults
+        title: Condo Living
         subtitle: + All Meals
     grid_cols: four
     grid_gap_horiz: small
