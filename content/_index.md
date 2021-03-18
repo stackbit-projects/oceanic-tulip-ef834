@@ -345,7 +345,7 @@ sections:
         actions_width: full-width
       - title_align: left
         content: |
-          #### \*\*\*\*
+          ***#### \*\*\*\****
 
           #### Condo Living
 
