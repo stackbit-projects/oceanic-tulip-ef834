@@ -152,7 +152,7 @@ sections:
     title: Registation closes May 31. Register today!
     actions:
       - label: Get registered today.
-        url: /thank-you
+        url: Registration closes May 31. Register today!
         style: primary
         has_icon: true
         icon: arrow-right
