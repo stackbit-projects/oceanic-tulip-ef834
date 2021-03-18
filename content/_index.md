@@ -306,9 +306,8 @@ sections:
           for $11 each.*
 
 
-          *   Standard: $34 per day 
-          *   Youth (4-12yrs): $18 per day 
-          *   Toddlers/Infants (age < 3): $6 per day
+          *   Standard: $34 per day  *   Youth (4-12yrs): $18 per day  *  
+          Toddlers/Infants (age < 3): $6 per day
         content_align: left
         actions:
           - label: Register
@@ -423,7 +422,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: Registration closes
     actions:
       - label: Get registered today
         url: /thank-you
