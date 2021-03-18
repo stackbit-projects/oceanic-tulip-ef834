@@ -363,6 +363,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Condo
+        subtitle: + All Meals
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
