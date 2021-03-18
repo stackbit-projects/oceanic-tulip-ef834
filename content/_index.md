@@ -391,7 +391,7 @@ sections:
         title_align: left
         content: "Yes, families often team up together to make accommodations work. It is required\_that you let the registrar know ahead of time with a comment in the “special comment” section of the registration form.\n"
         content_align: left
-      - title: Can I get a refund?
+      - title: What about payments and refunds?
         title_align: left
         content: >
           There is no deposit required this year. Once we get the final green
