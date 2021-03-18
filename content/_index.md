@@ -199,19 +199,7 @@ sections:
       Camp begins with check-in on Monday at 4:00 p.m. and ends after the second
       morning meeting on Friday. There will be NO lunch served on Monday or
       Friday.
-    features:
-      - title: 'Um, its about your JavaScript...'
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: left
-        media_width: sixty
+    features: []
     feature_padding_vert: large
     align: center
     padding_top: large
