@@ -347,7 +347,9 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: |
-          ## +All Meals
+          ##
+
+          ### +All Meals
 
           Adults only.
 
