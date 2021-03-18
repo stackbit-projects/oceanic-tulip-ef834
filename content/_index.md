@@ -201,17 +201,49 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Time | Slot | Description
 
+          :---------- | :---------- | :----------
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          9h00 | Check-in / Breakfast | -
 
+          10h00 | Digging into a Linux KernelLinux Foundation | Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo
 
-          - Lorem ipsum
+          11h00 | Introducing Windows 12Microsoft | Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-          - dolor sit amet
+          12h00 | Lunch | -
+
+          13h00 | How to kill a elephant with one fingerDelta Command | Lorem
+          ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+          ea commodo
+
+          14h00 | Presenting iPadApple, Inc. | Lorem ipsum dolor sit amet,
+          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+          15h00 | Coffee-break | -
+
+          16h00 | Revealing Facebook SecretsFacebook | Lorem ipsum dolor sit
+          amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+          ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+
+          17h00 | Why do I prefer Android over iPhoneApple, Inc. | Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+          commodo
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
