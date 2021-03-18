@@ -300,11 +300,11 @@ sections:
           ***
 
 
-          ### For RV'ers
+          ### RV Parking
 
 
-          Three spaces available. First come, first serve. Additional meals may
-          be purchased for $11 each.
+          Three spaces available. No hookups. First come, first serve.
+          Additional meals may be purchased for $11 each.
 
 
           *   Standard: $34 per day
