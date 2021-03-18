@@ -327,7 +327,7 @@ sections:
         content: |
           ***
 
-          ### + All Meals
+          #### Lodge Living
 
           Additional meals may be purchased for $11 each.
 
