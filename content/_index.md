@@ -291,7 +291,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: For Hardcore RVers
+      - title: RV Parking
         subtitle: + 2 Meals
         title_align: left
         content: >
