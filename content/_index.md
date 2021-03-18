@@ -223,7 +223,7 @@ sections:
           11:45 am | Morning Classes End | Parents pick up their children and
           take them to lunch.
 
-          12:00 pm | Lunch at Dining Hall | 
+          12:00 pm | Lunch at Dining Hall |
 
           1:00 pm | Recreation Time | Listen to morning announcements to hear
           what is happening where and how to sign up.
@@ -240,12 +240,6 @@ sections:
           are Wednesday afternoon.
 
           11:00 pm | Light's Out |
-
-
-          \*Times and locations for meetings or activities may change due to
-          conflicts with the other camp that will be sharing the campground with
-          us, so please be on time for all meetings as any announcements will be
-          made then.\*
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
