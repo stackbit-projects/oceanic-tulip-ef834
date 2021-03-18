@@ -30,6 +30,8 @@ layout: page
 ---
 ## Dining
 
+![](/images/PICT04631%202.jpg)
+
 Dining is served buffet style. Meals include homemade breads, soups, salad & fruit bar, and dessert. There are two historic dining areas, each accommodating up to 176 individuals. There is also a Lakeside Dining Room overlooking Pinecrest Lake, accommodating up to 120 individuals. A new dining hall used by BRBC Family Camp accommodates up to 400 individuals. Click [here](http://www.opfamilycamp.com/accommodations/dining/) for more pictures of the dining hall.
 
 ## Lodges
