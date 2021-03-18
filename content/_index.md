@@ -299,18 +299,18 @@ sections:
           ***
 
 
-          #### For 3 RVers
+          #### For Three RVers
 
 
-          Three spaces available. No hookups. *Additional meals may be purchased
-          for $11 each.*
+          3 spaces available. No hookups. *Additional meals may be purchased for
+          $11 each.*
 
 
-          *   Standard: $34 per day
+          *   **Ages 13+**: $34 per day
 
-          *   Youth (4-12yrs): $18 per day
+          *   **Ages 4-12**: $18 per day
 
-          *   Littles (age < 3): $6 per day
+          *   **Ages 0-3**: $6 per day
         content_align: left
         actions:
           - label: Register
