@@ -393,11 +393,11 @@ sections:
         content_align: left
       - title: Can I get a refund?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          There is no deposit required this year. Once we get the final green
+          light from Pinecrest and the State of California, the registrar will
+          email you the total due and a link to pay online. If camp is canceled,
+          you will receive a full refund.
         content_align: left
       - title: What payment types do you accept?
         title_align: left
