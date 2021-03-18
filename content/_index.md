@@ -273,7 +273,7 @@ sections:
     title: Pricing
     subtitle: Registration fees for 2021. No deposit required.
     grid_items:
-      - title: Conference Only + Meals
+      - title: Conference Only with Two Meals
         subtitle: April 14
         title_align: left
         content: |-
