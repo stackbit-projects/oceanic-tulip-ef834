@@ -280,7 +280,7 @@ sections:
           ***
 
           #### Conference Only
-
+          
          *Additional meals may be purchased for $11 each.*
 
           *   Standard: $32 per day
