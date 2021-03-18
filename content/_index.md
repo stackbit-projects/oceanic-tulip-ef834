@@ -279,7 +279,7 @@ sections:
         content: |
           ***
 
-          ### For Day trippers
+          ### For Daytrippers
 
           Additional meals may be purchased for $11 each.
 
