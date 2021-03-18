@@ -202,7 +202,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >
-          Time   | Slot | Description
+          Time    | Activity | Details
 
           :---------- | :---------- | :----------
 
@@ -210,37 +210,23 @@ sections:
 
           7:15 am | Prayer Meeting | -
 
-          8:00 am | Breakfast at Dining Hall | Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          8:00 am | Breakfast at Dining Hall | -
 
           9:00 am | Singing and Announcements | -
 
-          9:30 am | Morning Classes for All Ages | Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          9:30 am | Morning Classes for All Ages | -
 
-          10:30 am | Adult Class Coffee Break | Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          10:30 am | Adult Class Coffee Break | -
 
           11:00 am | Adult Class Resumes | -
 
-          11:45 am | Morning Classes End | Adults will go pick up children and
+          11:45 am | Morning Classes End | Parents pick up their children and
           take them to lunch.
 
-          12:00 pm | Lunch at Dining Hall | Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          12:00 pm | Lunch at Dining Hall | 
 
-          1:00 pm | Recreation Time | Lorem ipsum dolor sit amet, consectetur
-          adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-          ullamco laboris nisi ut aliquip ex ea commodo
+          1:00 pm | Recreation Time | Listen to morning announcements to hear
+          what is happening where and how to sign up.
 
           4:00 pm | BRBC Meeting (Thursday Only) |
 
@@ -250,7 +236,8 @@ sections:
 
           7:15 pm | Evening Family Meeting |
 
-          8:15 pm | Free Time |
+          8:15 pm | Free Time (M-W); Talent Show (Thurs) | Talent show auditions
+          are Wednesday afternoon.
 
           11:00 pm | Light's Out |
 
