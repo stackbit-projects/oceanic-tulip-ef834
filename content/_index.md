@@ -389,11 +389,7 @@ sections:
         content_align: left
       - title: May someone stay in my room who is not a member of my family?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: "Yes, families often team up together to make accommodations work. It is required\_that you let the registrar know ahead of time with a comment in the “special comment” section of the registration form.\n"
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
