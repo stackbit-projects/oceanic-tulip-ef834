@@ -91,7 +91,7 @@ sections:
         image: images/food-svgrepo-com.svg
         image_alt: Section item 2 icon
         image_position: left
-        image_width: sixty
+        image_width: twenty-five
       - title: Fun Activities
         title_align: left
         content: >
