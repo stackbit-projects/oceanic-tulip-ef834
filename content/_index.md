@@ -296,16 +296,18 @@ sections:
       - title: Summit ticket
         subtitle: April 14 - 15
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
+
           ### $49
 
-          Watch Only access to Summit & Base Camp Tracks
+          Three spaces available. First come, first serve.
 
-          * Conference Stickers
-          * Technology discussion rooms
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
+          *   Standard: $34 per day
+
+          *   Youth (4-12yrs): $18 per day
+
+          *   Toddlers/Infants (age < 3): $6 per day
         content_align: left
         actions:
           - label: Registration
