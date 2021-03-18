@@ -91,7 +91,7 @@ sections:
         image: images/food-svgrepo-com.svg
         image_alt: Section item 2 icon
         image_position: left
-        image_width: twenty-five
+        image_width: sixty
       - title: Fun Activities
         title_align: left
         content: >
@@ -306,9 +306,8 @@ sections:
           for $11 each.*
 
 
-          *   Standard: $34 per day  
-          *   Youth (4-12yrs): $18 per day  
-          *   Toddlers/Infants (age < 3): $6 per day
+          *   Standard: $34 per day   *   Youth (4-12yrs): $18 per day   *  
+          Toddlers/Infants (age < 3): $6 per day
         content_align: left
         actions:
           - label: Register
