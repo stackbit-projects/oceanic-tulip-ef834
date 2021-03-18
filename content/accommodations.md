@@ -54,6 +54,6 @@ The Pinecrest Suites (a.k.a. the condos) are for adults only (18 yrs and older).
 
 ## RV Camping
 
-![](/images/pexels-jessica-jochheim-6410609%203.jpeg)
+![](/images/pexels-jessica-jochheim-6410609%204.jpeg)
 
 There are no allocated RV sites at the camp. However, the camp allows you to park your RV in the flat asphalt parking area or amongst their apple trees at the entrance to the camp where there is a limited amount of water available.
