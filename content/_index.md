@@ -387,7 +387,7 @@ sections:
           young children, pregnant moms, and individuals with medical conditions
           or a disability.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: May someone stay in my room who is not a member of my family?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
