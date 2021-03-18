@@ -318,7 +318,7 @@ sections:
         content: |
           ***
 
-          #### Lodge Living
+          #### For Families
 
           *   Standard: $32 per day
           *   Youth (4-12yrs): $17 per day
