@@ -149,7 +149,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: Registation closes May 31. Register today!
     actions:
       - label: Get registered today.
         url: /thank-you
