@@ -403,6 +403,30 @@ sections:
         title_align: left
         content: "Call or send an email to the\_[camp registrar](mailto:registrar@opfamilycamp.com)\_for the scholarship application form. You can also help reduce your fees by serving as a camp helper. Learn more on the\_[Help Wanted](https://www.opfamilycamp.com/helpwanted/)\_page.\n"
         content_align: left
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
