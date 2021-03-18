@@ -399,7 +399,7 @@ sections:
           email you the total due and a link to pay online. If camp is canceled,
           you will receive a full refund.
         content_align: left
-      - title: What payment types do you accept?
+      - title: What if I can't afford to go?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
