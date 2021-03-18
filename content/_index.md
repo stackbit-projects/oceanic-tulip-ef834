@@ -345,11 +345,9 @@ sections:
         actions_width: full-width
       - title_align: left
         content: |
-          ## Conference + Condo
 
-          ### +All Meals
 
-          Adults only.
+          #### Condo Living
 
           *   Standard: $64 per day
         content_align: left
