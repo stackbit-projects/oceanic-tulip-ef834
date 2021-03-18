@@ -279,7 +279,7 @@ sections:
         content: |
           ***
 
-          ### + 2 Meals
+          ### No Housing
 
           Additional meals may be purchased for $11 each.
 
