@@ -293,7 +293,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Conferce + RV Parking +
+      - title: Conferce + RV Parking + 2 Meals
         subtitle: April 14 - 15
         title_align: left
         content: |
