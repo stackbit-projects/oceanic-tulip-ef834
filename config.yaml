@@ -16,9 +16,6 @@ params:
       - label: About
         url: /about
         style: link
-      - label: Sponsorship
-        url: /sponsorship
-        style: link
       - label: Register
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
