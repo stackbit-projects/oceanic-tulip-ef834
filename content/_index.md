@@ -378,7 +378,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: Our vision
     grid_items:
-      - title: What do the accomodations
+      - title: How are rooms assigned?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
