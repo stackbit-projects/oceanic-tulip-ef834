@@ -344,7 +344,7 @@ sections:
 
           #### For Adults
 
-          *   **Ages 18+**: $64 per day
+          *   **Ages 18+**: $64/day
         content_align: left
         actions:
           - label: Register
