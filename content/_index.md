@@ -364,7 +364,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Condo Living
-        subtitle: + All Meals
+        subtitle: + All Meals + Camp T-shirt
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
