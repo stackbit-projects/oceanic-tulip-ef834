@@ -271,7 +271,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    subtitle: Registration fees for 2021. No deposit required.
+    subtitle: We keep costs low so you can come. No deposit required.
     grid_items:
       - title: Conference Only
         subtitle: + 2 Meals + Camp T-shirt
