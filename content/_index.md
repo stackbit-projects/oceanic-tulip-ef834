@@ -243,7 +243,7 @@ sections:
           magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
           ullamco laboris nisi ut aliquip ex ea commodo
 
-          4:00 pm | BRBC Meeting (Thursday Only) | 
+          4:00 pm | BRBC Meeting (Thursday Only) |
 
           5:30 pm | Dinner at Dining Hall |
 
