@@ -278,7 +278,13 @@ sections:
         title_align: left
         content: |
           ***
-
+    actions:
+          - label: Register
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
+            style: primary
+        actions_align: left
+        actions_width: full-width
           #### For Daytrippers
 
           *   Standard: $32 per day
