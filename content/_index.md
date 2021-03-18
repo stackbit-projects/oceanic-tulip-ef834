@@ -298,12 +298,15 @@ sections:
         content: >
           ***
 
-          #### For RVers
+
+          #### For 3 RVers
+
 
           Three spaces available. No hookups. First come, first serve.
           *Additional meals may be purchased for $11 each.*
 
-          *   Standard: $34 per day *   Youth (4-12yrs): $18 per day *  
+
+          *   Standard: $34 per day \*   Youth (4-12yrs): $18 per day \*  
           Toddlers/Infants (age < 3): $6 per day
         content_align: left
         actions:
