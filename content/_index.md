@@ -306,11 +306,11 @@ sections:
           $11 each.*
 
 
-          *   **Ages 13+**: $34 per day
+          *   **Ages 13+**: $34/day
 
-          *   **Ages 4-12**: $18 per day
+          *   **Ages 4-12**: $18/day
 
-          *   **Ages 0-3**: $6 per day
+          *   **Ages 0-3**: $6/day
         content_align: left
         actions:
           - label: Register
