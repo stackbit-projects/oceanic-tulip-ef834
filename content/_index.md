@@ -185,7 +185,7 @@ sections:
 
 
           [**Blog**](https://joelellis.blogspot.com/)
-        image: images/avatar_3.jpg
+        image: images/6E656936-A203-4C49-9FC7-CA3538607A7F.jpeg
         image_alt: Speaker 3 photo
         image_position: top
     grid_cols: two
