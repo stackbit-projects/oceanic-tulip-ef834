@@ -419,7 +419,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Read More FAQ
             url: '#'
             style: secondary
             has_icon: false
