@@ -422,7 +422,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Registration closes
+    title: Registration closes May 31. Register today!
     actions:
       - label: Get registered today
         url: /thank-you
