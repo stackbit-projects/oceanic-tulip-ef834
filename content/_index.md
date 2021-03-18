@@ -300,7 +300,7 @@ sections:
           ***
 
 
-          ### + 2 Meals
+          ### For RV'ers
 
 
           Three spaces available. First come, first serve. Additional meals may
