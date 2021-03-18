@@ -341,7 +341,7 @@ sections:
           *    Standard: $64 per day
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Register
             url: '#'
             style: link
             has_icon: false
