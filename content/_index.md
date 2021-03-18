@@ -299,7 +299,7 @@ sections:
         content: |
           ***
 
-          ### $49
+          ### + 2 Meals
 
           Three spaces available. First come, first serve.
 
