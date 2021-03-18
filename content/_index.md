@@ -287,7 +287,8 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: /thank-you
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
             style: primary
         actions_align: left
         actions_width: full-width
