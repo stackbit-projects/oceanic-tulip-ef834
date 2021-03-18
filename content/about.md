@@ -38,4 +38,4 @@ The Blue Ridge Bible Conference attained something approximating its present for
 
 ![](/images/DSC01218-1024x557.jpeg)
 
-The current governing board, left to right: \*Joe LoGiudice, Jason Lund (President), Mike Jennings, Matt Cotta, Mark Schroeder, James Lim, Christopher Chelpka, John Kent, Paul Kent\*
+The current governing board, left to right: Joe LoGiudice, Jason Lund (President), Mike Jennings, Matt Cotta, Mark Schroeder, James Lim, Christopher Chelpka, John Kent, Paul Kent
