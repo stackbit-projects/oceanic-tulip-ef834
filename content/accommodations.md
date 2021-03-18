@@ -38,13 +38,11 @@ Dining is served buffet style. Meals include homemade breads, soups, salad & fru
 
 ![](/images/Redwood%202.jpeg)
 
-There are several two-story Alpine lodges with up to 20 large rooms, 10 on each floor. Each room can sleep a family of 6, with two rooms housing up to 9. The individual rooms contain one queen bed and four or seven single wooden framed bunk beds. The rooms are carpeted with a sink, mirror and electrical outlets. Many of the rooms have connecting doors which will allow you to be close to your friends and family.
+There are several two-story Alpine lodges with up to 20 large rooms, 10 on each floor. Each room can sleep a family of 6, with two rooms housing up to 9. The individual rooms contain one queen bed and four or seven single wooden framed bunk beds. The rooms are carpeted with a sink, mirror and electrical outlets. Many of the rooms have connecting doors which will allow you to be close to your friends and family. The rooms are not air-conditioned. We strongly recommend your *bring portable fans *to help with air circulation.
 
-The lodges have two centrally located bathrooms on each floor. Each bathroom contains three toilets, sinks and mirrors, three private showers and a semi-private dressing area. Bathrooms on the lower-level are handicapped-accessible.
+The lodges have two centrally located bathrooms on each floor. Each bathroom contains three toilets, sinks and mirrors, and up to three private showers and a semi-private dressing area. Bathrooms on the lower-level are handicapped-accessible. Campers need to provide their own bedding and bath towels. Many bring sleeping bags, and several like to bring an extra comfort bedding mat and their own pillow.
 
-Each floor of the lodges has a large open with many windows, a fireplace, tables, and chairs. Campers use these spaces for classes and fellowship throughout the day.
-
-The lodges are centrally located near the dining hall, chapel, playground, and other recreation areas.
+Each floor of the lodges has a large open with many windows, a fireplace, tables, and chairs. Campers use these spaces for classes and fellowship throughout the day. The lodges are centrally located near the dining hall, chapel, playground, and other recreation areas.
 
 ## Condos
 
