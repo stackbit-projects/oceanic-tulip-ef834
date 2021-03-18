@@ -202,7 +202,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >
-          Time | Slot | Description
+          Time   | Slot | Description
 
           :---------- | :---------- | :----------
 
