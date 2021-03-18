@@ -342,7 +342,8 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: '#'
+            url: >-
+              https://docs.google.com/forms/d/e/1FAIpQLSeV4jZoqhO2ilDvUX1CgXss0UcEXxC09oAdlxf9ieQF4O26tA/viewform
             style: link
             has_icon: false
             icon: arrow-left
