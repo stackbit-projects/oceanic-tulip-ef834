@@ -28,10 +28,25 @@ seo:
       relativeUrl: true
 layout: page
 ---
-The Blue Ridge Bible Conference began as a young people’s camp in the summer of 1941. The first camp was held at Acorn Lodge, in Wrightwood. Dwight Poundstone was a principal figure in the establishment of the Bible conference, and he acted as dean for many years. Blue Ridge is a mountain that looms over Wrightwood to the south, and the bible camp was named for it. Attendance at the camp gradually increased through the years, the character of the camp changed to include people of all ages, and the location of the camp changed a number of times. Despite these changes, the name ‘Blue Ridge Bible Conference’ has continued to be used to the present.
+# Dining
 
-In the early years of the camp there was only one Orthodox Presbyterian presbytery on the Pacific Coast, and people attended the Blue Ridge Bible Conference from both northern and southern California. The conference has been held at a number of sites during its history including Camp Sierra (near Big Creek and Shaver Lake), Hume Lake, Camp Maranatha, Canyon Meadows, Thousand Pines, and currently, Pinecrest Christian Conference Center. The original presbytery that extended from Canada to the Mexican border divided into three presbyteries as the church grew. Today there are camps in each of the daughter presbyteries.
+Dining is served buffet style. Meals include homemade breads, soups, salad & fruit bar, and dessert. There are two historic dining areas, each accommodating up to 176 individuals. There is also a Lakeside Dining Room overlooking Pinecrest Lake, accommodating up to 120 individuals. A new dining hall used by BRBC Family Camp accommodates up to 400 individuals. Click [here](http://www.opfamilycamp.com/accommodations/dining/) for more pictures of the dining hall.
 
-Speakers at the Blue Ridge Bible Conference have been quite varied. They have been, and continue to be, committed to the Reformed faith. Speakers have included pastors of our own and other presbyteries, missionaries, seminary teachers, various denominational officers, and well-known people from sister denominations. The Blue Ridge Bible Conference Board has sought to provide a variety of speakers with different kinds of messages. Topics have included pastoral concerns, theology, church history, Christian education, foreign missions, apologetics, and evangelism and outreach. (Click [here](http://www.opfamilycamp.com/about/past-speakers/) for a list a past speakers.)
+# Lodges
 
-The Blue Ridge Bible Conference attained something approximating its present form by the late 1950s and early 1960s. Children’s classes, fellowship times, general formats, and the basic structure of the camp organization were decided upon. In the 1980s bylaws were adopted, job descriptions for staff were adopted and implemented, and camp procedures were adopted and implemented. The camp organization that exists today has come about through a long process of development and refinement. The Lord has blessed the ministry of the Word at our conference through the years. It has also been a means of fostering fellowship between the Lord’s people of all ages in various congregations of our presbytery.
+There are several two-story Alpine lodges with up to 20 large rooms, 10 on each floor. Each room can sleep a family of 6, with two rooms housing up to 9. The individual rooms contain one queen bed and four or seven single wooden framed bunk beds. The rooms are carpeted with a sink, mirror and electrical outlets. Many of the rooms have connecting doors which will allow you to be close to your friends and family.
+
+The lodges have two centrally located bathrooms on each floor. Each bathroom contains three toilets, sinks and mirrors, three private showers and a semi-private dressing area. Bathrooms on the lower-level are handicapped-accessible.
+
+Each floor of the lodges has a large open with many windows, a fireplace, tables, and chairs. Campers use these spaces for classes and fellowship throughout the day.
+
+The lodges are centrally located near the [dining hall](http://www.opfamilycamp.com/accommodations/dining/), [chapel](http://www.opfamilycamp.com/accommodations/chapel/), playground and [recreation areas](http://www.opfamilycamp.com/accommodations/gymnasium/). Click [here](http://www.opfamilycamp.com/accommodations/conference-lodge/) for more pictures.
+
+# Condos
+
+The Pinecrest Suites (a.k.a. the condos) are for adults only (18 yrs and older).  The Suites are made up of several three-story chateaus, some with three bedrooms, others with five bedrooms, sleeping a maximum of two persons per room on a queen size bed. Each chateau has a living area with fireplace for small intimate group fellowship. Refrigerators and microwaves are included; however, cooking is not allowed. You will need to bring your own paper goods (towels, plates, cups, etc.). Linens, including towels and washcloths, are provided. The Suites maximum occupancy is 64 persons. Click [here](http://www.opfamilycamp.com/accommodations/pince-crest-suites-condos/) for more pictures.
+
+
+# RV Camping
+
+There are no allocated RV sites at the camp. However, the camp allows you to park your RV in the flat asphalt parking area or amongst their apple trees at the entrance to the camp where there is a limited amount of water available.
