@@ -274,7 +274,7 @@ sections:
     subtitle: Registration fees for 2021. No deposit required.
     grid_items:
       - title: Conference Only
-        subtitle: April 14
+        subtitle: + 2 Meals
         title_align: left
         content: |
           ***
