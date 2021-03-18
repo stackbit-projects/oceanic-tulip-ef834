@@ -327,9 +327,9 @@ sections:
 
           #### For Families
 
-          *   Standard: $32 per day
-          *   Youth (4-12yrs): $17 per day
-          *   Littles (age < 3): $5 per day
+          *   **Ages 13+**: $32/day
+          *   **Ages 4-12**: $17 per day
+          *   **Ages 0-3**: $5 per day
         content_align: left
         actions:
           - label: Register
