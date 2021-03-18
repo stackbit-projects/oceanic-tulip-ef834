@@ -179,12 +179,12 @@ sections:
         image_align: left
       - title: Rev. Joel Ellis
         subtitle: 'Pastor, Reformation Orthodox Presbyterian Church'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
+        content: >
+          Joel Ellis is pastor of Reformation Orthodox Presbyterian Church in
+          Mesa, Arizona. He is speaking on the topic of
 
 
-          **[Twitter](https://twitter.com/)**
+          [**Twitterd**](https://twitter.com/)
         image: images/avatar_3.jpg
         image_alt: Speaker 3 photo
         image_position: top
