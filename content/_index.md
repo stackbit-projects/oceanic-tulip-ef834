@@ -279,7 +279,7 @@ sections:
         content: |
           ***
 
-          ### Free
+          ### + 2 Meals
 
           Additional meals may be purchased for $11 each.
 
