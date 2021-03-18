@@ -297,7 +297,7 @@ sections:
         content: >
           ***
 
-          #### RV Parking
+          #### For RVers
 
           Three spaces available. No hookups. First come, first serve.
           *Additional meals may be purchased for $11 each.*
