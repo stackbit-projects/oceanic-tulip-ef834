@@ -32,7 +32,7 @@ layout: page
 
 ![](/images/PICT04631%202.jpg)
 
-Dining is served buffet style. Meals include homemade breads, soups, salad & fruit bar, and dessert. There are two historic dining areas, each accommodating up to 176 individuals. There is also a Lakeside Dining Room overlooking Pinecrest Lake, accommodating up to 120 individuals. A new dining hall used by BRBC Family Camp accommodates up to 400 individuals. Click [here](http://www.opfamilycamp.com/accommodations/dining/) for more pictures of the dining hall.
+Dining is served buffet style. Meals include homemade breads, soups, salad & fruit bar, and dessert. There are two historic dining areas, each accommodating up to 176 individuals. There is also a Lakeside Dining Room overlooking Pinecrest Lake, accommodating up to 120 individuals. A new dining hall used by BRBC Family Camp accommodates up to 400 individuals.
 
 ## Lodges
 
@@ -44,13 +44,13 @@ The lodges have two centrally located bathrooms on each floor. Each bathroom con
 
 Each floor of the lodges has a large open with many windows, a fireplace, tables, and chairs. Campers use these spaces for classes and fellowship throughout the day.
 
-The lodges are centrally located near the [dining hall](http://www.opfamilycamp.com/accommodations/dining/), [chapel](http://www.opfamilycamp.com/accommodations/chapel/), playground and [recreation areas](http://www.opfamilycamp.com/accommodations/gymnasium/). Click [here](http://www.opfamilycamp.com/accommodations/conference-lodge/) for more pictures.
+The lodges are centrally located near the dining hall, chapel, playground, and other recreation areas.
 
 ## Condos
 
 ![](/images/outside%202.jpeg)
 
-The Pinecrest Suites (a.k.a. the condos) are for adults only (18 yrs and older).  The Suites are made up of several three-story chateaus, some with three bedrooms, others with five bedrooms, sleeping a maximum of two persons per room on a queen size bed. Each chateau has a living area with fireplace for small intimate group fellowship. Refrigerators and microwaves are included; however, cooking is not allowed. You will need to bring your own paper goods (towels, plates, cups, etc.). Linens, including towels and washcloths, are provided. The Suites maximum occupancy is 64 persons. Click [here](http://www.opfamilycamp.com/accommodations/pince-crest-suites-condos/) for more pictures.
+The Pinecrest Suites (a.k.a. the condos) are for adults only (18 yrs and older).  The Suites are made up of several three-story chateaus, some with three bedrooms, others with five bedrooms, sleeping a maximum of two persons per room on a queen size bed. Each chateau has a living area with fireplace for small intimate group fellowship. Refrigerators and microwaves are included; however, cooking is not allowed. You will need to bring your own paper goods (towels, plates, cups, etc.). Linens, including towels and washcloths, are provided. The Suites maximum occupancy is 64 persons.
 
 ## RV Camping
 
