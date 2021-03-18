@@ -334,7 +334,7 @@ sections:
         content: |
           ***
 
-          #### Condo Living
+          #### For Adults
 
           Standard: $64 per day
         content_align: left
