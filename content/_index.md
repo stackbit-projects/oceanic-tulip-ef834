@@ -306,7 +306,7 @@ sections:
           Toddlers/Infants (age < 3): $6 per day
         content_align: left
         actions:
-          - label: Registration
+          - label: Register
             url: /thank-you
             style: primary
         actions_align: left
