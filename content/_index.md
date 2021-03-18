@@ -321,7 +321,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Lodge
+      - title: For Families
         subtitle: + All Meals
         title_align: left
         content: |
