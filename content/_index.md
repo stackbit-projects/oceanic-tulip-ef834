@@ -293,7 +293,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Conference + RV Parking
+      - title: RV Parking
         subtitle: April 14 - 15
         title_align: left
         content: >
