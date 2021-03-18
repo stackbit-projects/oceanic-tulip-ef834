@@ -294,7 +294,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: RV Parking
-        subtitle: April 14 - 15
+        subtitle: + 2 Meals
         title_align: left
         content: >
           ***
