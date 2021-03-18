@@ -380,11 +380,12 @@ sections:
     grid_items:
       - title: How are rooms assigned?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Rooms are assigned on a first come, first serve basis. If the camp
+          fills up, registrations will be placed on waiting list in the order
+          received. First floor lodge rooms are given priority to families with
+          young children, pregnant moms, and individuals with medical conditions
+          or a disability.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
