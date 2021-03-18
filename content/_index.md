@@ -304,7 +304,7 @@ sections:
 
 
           Three spaces available. No hookups. First come, first serve.
-          Additional meals may be purchased for $11 each.
+          *Additional meals may be purchased for $11 each.
 
           *   Standard: $34 per day
           *   Youth (4-12yrs): $18 per day
